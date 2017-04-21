@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&subset=latin-ext');
+
+body {
+  font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a,label,.font-open-sans,
+#product .filters-product .filters-product-label{
+    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.roboto,
+.pagination > li > a, .pagination > li > span,
+.price,
+.btn.btn-cart,
+h1,h2,h3,h4,h5{
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+h3{
+    line-height: 24px;
+    font-size: 22px;
+}
+
+h3,
+.font-weight-600{
+    font-weight: 600;
+}
+
+.font-weight-500, h5{
+    font-weight: 500;
+}
+
+.font-weight-400{
+    font-weight: 400;
+}
+
+.font-weight-300{
+    font-weight: 300;
+}
+
+.font-weight-200{
+    font-weight: 200;
+}
+
+.font-size-bigger{
+    font-size: 2em!important;
+}
+
+.font-roboto,
+
+#top-menu li a{
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto-small{
+    font-size: 13px;
+}

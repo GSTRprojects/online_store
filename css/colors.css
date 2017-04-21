@@ -1,0 +1,39 @@
+.primary-color,
+.filters .filter label::after{
+    color:#dc6900!important;
+}
+
+.primary-color-bg, .btn-sm, .btn-xs,
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus, .ui-button:hover, .ui-button:focus,
+.btn-primary-color{
+    background-color: #dc6900!important;
+    color: #ffffff;
+}
+
+.btn-primary-color:hover{
+    background-color: #dc6900!important;
+    color: #ffffff;
+}
+
+.primary-color-border,
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover,
+#menu ul.undermenu-first,
+#menu ul.undermenu-first > li > .undermenu,
+#menu ul.undermenu-first > li > .undermenu a:hover{
+    border-color: #dc6900!important;
+}
+
+
+a{
+    color: #03396c;
+}
+
+.color-grey,
+.btn-quantity .btn,
+#menu ul.undermenu-first > li > .undermenu a{
+    color:#666666!important;
+}
+
+h1, h2, h3 {
+  color: #5b5c59;
+}
